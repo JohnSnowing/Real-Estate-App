@@ -45,7 +45,6 @@ const Banner = ({
 );
 
 export default function Home({ propertiesForSale, propertiesForRent }) {
-    console.log("propertie", propertiesForSale, propertiesForRent);
     return (
         <div>
             <h1>hello world</h1>
